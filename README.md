@@ -43,7 +43,7 @@ Impact: Keeps content inclusive for both experts and non-experts.
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 
-## Example:
+### Example:
 
 Complex: "Authenticate your credentials before initiating the process."
 
@@ -95,7 +95,7 @@ Consistency: Follow a uniform style throughout the document.
 
 
 
-## Key Elements:
+### Key Elements:
 
 Brief product description.
 
